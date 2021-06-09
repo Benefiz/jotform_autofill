@@ -1,0 +1,5 @@
+document.getElementById('input_17_0_0').value = '1';
+document.getElementById('input_17_0_1').value = '1 พ.ค. 2564';
+document.getElementById('input_17_0_2').value = '9.00 น.';
+document.getElementById('input_17_0_3').value = '18.00 น.';
+document.getElementById('input_17_0_4').value = 'ทำงาน';
